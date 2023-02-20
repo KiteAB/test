@@ -1,2 +1,2 @@
 # test
-This is a description.
+This is a description for this repository.
